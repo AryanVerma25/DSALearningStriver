@@ -66,3 +66,16 @@ Sorting/insertionSort
 Sorting/mergeSort
 Sorting/quickSort
 Sorting/selectionSort
+
+Arrays/checkSorted
+Arrays/largestElement
+Arrays/removeDuplicates
+Arrays/secondLargest
+Arrays/secondSmallest
+
+Arrays/leftrotateArray
+Arrays/leftrotatebyk
+Arrays/linearSearch
+Arrays/movezeroesbrute
+Arrays/moveZeroOptimal
+Arrays/leftrotateoptimal
