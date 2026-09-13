@@ -73,9 +73,25 @@ Arrays/removeDuplicates
 Arrays/secondLargest
 Arrays/secondSmallest
 
+Arrays/longestsubarraywithsumk
+Arrays/longestsubarraywithsumkoptimal
+Arrays/longestsubarraywithsumkbetter
+
 Arrays/leftrotateArray
 Arrays/leftrotatebyk
 Arrays/linearSearch
 Arrays/movezeroesbrute
 Arrays/moveZeroOptimal
 Arrays/leftrotateoptimal
+Arrays/unionSortedbrute
+Arrays/unionsortedoptimal
+Arrays/intersectionofsorted
+Arrays/intersectionoptimal
+Arrays/missingno.optimal
+Arrays/missingno.optimal2
+Arrays/missingno.brute
+Arrays/missingno.better
+Arrays/maxconsecutiveones
+Arrays/findsingleoccurence
+Arrays/findsingleoccurencebetter
+Arrays/findsingleoccurenceoptiomal
